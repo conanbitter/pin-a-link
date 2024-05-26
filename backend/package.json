@@ -1,0 +1,17 @@
+{
+  "name": "pal-server",
+  "version": "0.0.1",
+  "description": "Server for Pin-A-Link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Conan Bitter",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "fastify": "^4.27.0"
+  }
+}
