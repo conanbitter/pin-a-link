@@ -2,7 +2,7 @@
   "name": "pal-server",
   "version": "0.0.1",
   "description": "Server for Pin-A-Link",
-  "main": "../server/app/index.js",
+  "main": "./bin/index.js",
   "scripts": {
     "build": "tsc",
     "start": "node .",
